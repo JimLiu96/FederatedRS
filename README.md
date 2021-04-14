@@ -7,3 +7,6 @@
 - Chen Chen, etc. [Robust Federated Recommendation System](https://arxiv.org/pdf/2006.08259.pdf), arxiv 2020
 - M´onica Ribero, etc. [Federating Recommendations Using Differentially Private Prototypes](https://arxiv.org/pdf/2003.00602.pdf), arxiv 2019
 - Di Chai, etc. [Secure Federated Matrix Factorization](https://arxiv.org/pdf/1906.05108.pdf), arxiv 2019 [CODE](https://github.com/Di-Chai/FedMF)
+
+# Useful Resources
+https://github.com/poga/awesome-federated-learning
