@@ -9,4 +9,6 @@
 - Di Chai, etc. [Secure Federated Matrix Factorization](https://arxiv.org/pdf/1906.05108.pdf), arxiv 2019 [CODE](https://github.com/Di-Chai/FedMF)
 - Alireza Fallah, etc. [Personalized Federated Learning: A Meta-Learning Approach](https://arxiv.org/pdf/2002.07948.pdf) NeurIPS 2020
 # Useful Resources
-https://github.com/poga/awesome-federated-learning
+- https://github.com/poga/awesome-federated-learning
+- https://github.com/tensorflow/federated
+- https://github.com/AshwinRJ/Federated-Learning-PyTorch
