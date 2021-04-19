@@ -15,7 +15,47 @@
 | 2019 | [Federating Recommendations Using Differentially Private Prototypes](https://arxiv.org/pdf/2003.00602.pdf) | arxiv | Link | 
 | 2019 | [Secure Federated Matrix Factorization](https://arxiv.org/pdf/1906.05108.pdf) | arxiv | [CODE](https://github.com/Di-Chai/FedMF) | 
 
-# Useful Resources
+## Useful Resources
 - https://github.com/poga/awesome-federated-learning
 - https://github.com/tensorflow/federated
 - https://github.com/AshwinRJ/Federated-Learning-PyTorch
+- Flower https://flower.dev/
+- PySyft https://github.com/OpenMined/PySyft
+- Tensorflow Federated  https://www.tensorflow.org/federated
+- CrypTen https://github.com/facebookresearch/CrypTen
+- FATE https://fate.fedai.org/
+- DVC https://dvc.org/
+- LEAF https://leaf.cmu.edu/
+- Federated iNaturalist/Landmarkds https://github.com/google-research/google-research/tree/master/federated_vision_datasets
+- FedML: A Research Library and Benchmark for Federated Machine Learning https://github.com/FedML-AI/FedML
+- XayNet: Open source framework for federated learning in Rust https://xaynet.webflow.io/ 
+
+
+## Use-cases
+
+MIT CSAIL/Harvard Medical/Tsinghua University’s Academy of Arts and Design
+
+* https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf
+* https://venturebeat.com/2019/03/25/federated-learning-technique-predicts-hospital-stay-and-patient-mortality/
+
+Microsoft research/University of Chinese Academy of Sciences, Beijing, China
+
+* https://arxiv.org/pdf/1907.09173.pdf
+
+Boston University/Massachusetts General Hospital
+
+* https://www.ncbi.nlm.nih.gov/pubmed/29500022
+
+Google
+
+* https://ai.googleblog.com/2017/04/federated-learning-collaborative.html
+* https://www.statnews.com/2019/09/10/google-mayo-clinic-partnership-patient-data/
+
+Tencent WeBank
+
+* https://www.digfingroup.com/webank-clustar/
+
+Nvidia/King’s College London, American College of Radiology, MGH and BWH Center for Clinical Data Science, and UCLA Health... etc
+
+* https://venturebeat.com/2019/10/13/nvidia-uses-federated-learning-to-create-medical-imaging-ai/
+* https://blogs.nvidia.com/blog/2019/12/01/clara-federated-learning/
