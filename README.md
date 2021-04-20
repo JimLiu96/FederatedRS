@@ -4,6 +4,7 @@
 | 2021 | [Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977.pdf) | FTML  | Link |
 | 2020 | [Think Locally, Act Globally: Federated Learning with Local and Global Representations](https://arxiv.org/pdf/2001.01523.pdf) | NeurIPS workshop | Link |
 | 2019 | [Federated Machine Learning: Concept and Applications](https://dl.acm.org/doi/pdf/10.1145/3298981) | TIST | Link |
+| 2017 | [Communication-Efficient Learning of Deep Networks from Decentralized Data](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf) | AISTATS | [Link](https://github.com/shaoxiongji/federated-learning) |
 
 # Federated Learning for Recommender Sytem
 | Year   | Title  | Venue | Code  |
