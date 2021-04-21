@@ -14,6 +14,7 @@
 | 2020 | [Robust Federated Recommendation System](https://arxiv.org/pdf/2006.08259.pdf) | arxiv | Link |
 | 2020 | [FEDERATED MULTI-VIEW MATRIX FACTORIZATION FOR PERSONALIZED RECOMMENDATIONS](https://arxiv.org/pdf/2004.04256.pdf) | arxiv | Link | 
 | 2020 | [Secure Federated Matrix Factorization](https://arxiv.org/pdf/1906.05108.pdf) | Int. Sys. | [CODE](https://github.com/Di-Chai/FedMF) | 
+| 2020 | [Privacy-Preserving News Recommendation Model Learning](https://arxiv.org/pdf/2003.09592.pdf) | EMNLP-Findings | [CODE](https://github.com/JulySinceAndrew/FedNewsRec-EMNLP-Findings-2020) | 
 | 2019 | [FEDERATED COLLABORATIVE FILTERING FOR PRIVACY-PRESERVING PERSONALIZED RECOMMENDATION SYSTEM](https://arxiv.org/pdf/1901.09888.pdf) | arxiv | Link | 
 | 2019 | [Federating Recommendations Using Differentially Private Prototypes](https://arxiv.org/pdf/2003.00602.pdf) | arxiv | Link | 
 
