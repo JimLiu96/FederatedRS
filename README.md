@@ -7,7 +7,7 @@
 | 2019 | [Federated Machine Learning: Concept and Applications](https://dl.acm.org/doi/pdf/10.1145/3298981) | TIST | Link |
 | 2017 | [Communication-Efficient Learning of Deep Networks from Decentralized Data](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf) | AISTATS | [Link](https://github.com/shaoxiongji/federated-learning) |
 
-# Federated Learning for Recommender Sytem
+# Federated  Recommender System
 | Year   | Title  | Venue | Code  |
 |-------|--------|--------|-----------|
 | 2021 | [FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation](https://arxiv.org/abs/2102.04925) | arxiv | Link |
