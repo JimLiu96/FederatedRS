@@ -3,6 +3,7 @@
 |-------|--------|--------|-----------|
 | 2021 | [Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977.pdf) | FTML  | Link |
 | 2020 | [Think Locally, Act Globally: Federated Learning with Local and Global Representations](https://arxiv.org/pdf/2001.01523.pdf) | NeurIPS workshop | Link |
+| 2020 | [Personalized Federated Learning: A Meta-Learning Approach](https://arxiv.org/pdf/2002.07948.pdf) | NeurIPS | Link | 
 | 2019 | [Federated Machine Learning: Concept and Applications](https://dl.acm.org/doi/pdf/10.1145/3298981) | TIST | Link |
 | 2017 | [Communication-Efficient Learning of Deep Networks from Decentralized Data](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf) | AISTATS | [Link](https://github.com/shaoxiongji/federated-learning) |
 
@@ -12,7 +13,6 @@
 | 2021 | [FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation](https://arxiv.org/abs/2102.04925) | arxiv | Link |
 | 2020 | [Robust Federated Recommendation System](https://arxiv.org/pdf/2006.08259.pdf) | arxiv | Link |
 | 2020 | [FEDERATED MULTI-VIEW MATRIX FACTORIZATION FOR PERSONALIZED RECOMMENDATIONS](https://arxiv.org/pdf/2004.04256.pdf) | arxiv | Link | 
-| 2020 | [Personalized Federated Learning: A Meta-Learning Approach](https://arxiv.org/pdf/2002.07948.pdf) | NeurIPS | Link | 
 | 2020 | [Secure Federated Matrix Factorization](https://arxiv.org/pdf/1906.05108.pdf) | Int. Sys. | [CODE](https://github.com/Di-Chai/FedMF) | 
 | 2019 | [FEDERATED COLLABORATIVE FILTERING FOR PRIVACY-PRESERVING PERSONALIZED RECOMMENDATION SYSTEM](https://arxiv.org/pdf/1901.09888.pdf) | arxiv | Link | 
 | 2019 | [Federating Recommendations Using Differentially Private Prototypes](https://arxiv.org/pdf/2003.00602.pdf) | arxiv | Link | 
