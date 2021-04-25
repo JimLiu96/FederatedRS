@@ -10,7 +10,7 @@
 # Federated  Recommender System
 | Year   | Title  | Venue | Code  |
 |-------|--------|--------|-----------|
-| 2021 | [DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce](__) [Video](https://www.youtube.com/watch?v=2J61s9xXTPo) | The Web | Link |
+| 2021 | [DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce](__) [\[Video\]](https://www.youtube.com/watch?v=2J61s9xXTPo) | The Web | Link |
 | 2021 | [FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation](https://arxiv.org/abs/2102.04925) | arxiv | Link |
 | 2020 | [Robust Federated Recommendation System](https://arxiv.org/pdf/2006.08259.pdf) | arxiv | Link |
 | 2020 | [FEDERATED MULTI-VIEW MATRIX FACTORIZATION FOR PERSONALIZED RECOMMENDATIONS](https://arxiv.org/pdf/2004.04256.pdf) | arxiv | Link | 
