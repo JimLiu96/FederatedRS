@@ -1,4 +1,6 @@
 # Federated Learning Survey
+| Year   | Title  | Venue | Code  |
+|-------|--------|--------|-----------|
 | 2021 | [Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977.pdf) | FTML  | Link |
 | 2019 | [Federated Machine Learning: Concept and Applications](https://dl.acm.org/doi/pdf/10.1145/3298981) | TIST | Link |
 
