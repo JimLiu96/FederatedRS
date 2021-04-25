@@ -1,11 +1,16 @@
+# Federated Learning Survey
+| 2021 | [Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977.pdf) | FTML  | Link |
+| 2019 | [Federated Machine Learning: Concept and Applications](https://dl.acm.org/doi/pdf/10.1145/3298981) | TIST | Link |
+
 # Federated Learning Papers
 | Year   | Title  | Venue | Code  |
 |-------|--------|--------|-----------|
-| 2021 | [Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977.pdf) | FTML  | Link |
+| 2021 | [Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data](https://arxiv.org/pdf/2006.06983.pdf) | The Web  | Link |
+| 2021 | [Hierarchical Federated Learning through LAN-WAN Orchestration](https://arxiv.org/pdf/2010.11612.pdf) | The Web  | Link |
 | 2020 | [Think Locally, Act Globally: Federated Learning with Local and Global Representations](https://arxiv.org/pdf/2001.01523.pdf) | NeurIPS workshop | Link |
 | 2020 | [Personalized Federated Learning: A Meta-Learning Approach](https://arxiv.org/pdf/2002.07948.pdf) | NeurIPS | Link | 
-| 2019 | [Federated Machine Learning: Concept and Applications](https://dl.acm.org/doi/pdf/10.1145/3298981) | TIST | Link |
 | 2017 | [Communication-Efficient Learning of Deep Networks from Decentralized Data](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf) | AISTATS | [Link](https://github.com/shaoxiongji/federated-learning) |
+
 
 # Federated  Recommender System
 | Year   | Title  | Venue | Code  |
